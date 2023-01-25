@@ -1,0 +1,55 @@
+h1 {
+	text-align: center;
+	text-shadow: 0 0 10px dimgray;
+	margin-top: 160px;
+}
+h2 {
+	text-shadow: 0 0 10px blue;
+}
+
+img {
+	width: 200px;
+	height:280px ;
+	margin-bottom: 20px;
+	border-radius: 20px;
+}
+
+body {
+	background: pink ;
+	text-align: center;
+}
+
+div {
+	border: blue 2px solid;
+	display: inline-block;
+	text-align: center;
+	background: peachpuff;
+	padding: 10px;
+	margin-top: 20px;
+	border-radius:20px ;
+}
+
+a {
+	color: dimgray;
+	border:3px skyblue solid;
+	padding: 5px;
+	background:lightblue;
+	border-radius: 20px;
+	text-decoration: none;
+}
+.soeka{
+	color:royalblue;
+
+}
+.kosh {
+	color:#2384ad ;
+}
+.cok{
+	background:#a6f7c6;
+
+}
+.med {
+	background:#f2b6d6 ;
+
+}
+.uy background#f0de84
